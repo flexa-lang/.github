@@ -1,1 +1,1 @@
-# Flexa Script Language
+# .github for FlexaScript
