@@ -8,5 +8,5 @@ Flexa is a toy programming language developed for fun.
 
 ## Installation
 To use Flexa, follow these steps:
-1. Download the interpreter [release](https://github.com/flexa-script/interpreter)
+1. Download the interpreter [release](https://github.com/flexascript/flexascript)
 2. Unzip the content on your root
