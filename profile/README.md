@@ -1,12 +1,8 @@
-# Flexa Script Language
+# The Flexa Language
 Flexa is a toy programming language developed for fun.
 
-## Features
-- Easy Syntax
-- Dynamic Typing
-- Built-in Libraries
-
-## Installation
+## Usage
 To use Flexa, follow these steps:
-1. Download the interpreter [release](https://github.com/flexascript/flexascript)
+1. Download the interpreter [release](https://github.com/flexa-lang/flexa)
 2. Unzip the content on your root
+3. Execute Flexa interpreter by running the following command: `./flexa main.flx`
